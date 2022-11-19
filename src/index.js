@@ -1,5 +1,3 @@
-import "./styles.css";
-
 let now = new Date();
 let days = ["Sun", "Mon", "Tue", "Wed", "Thur", "Fri", "Sat"];
 let day = days[now.getDay()];
